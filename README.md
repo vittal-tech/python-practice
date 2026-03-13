@@ -9,5 +9,6 @@ Programs included:
 - Number Guessing Game
 - Table Generator
 - Square Calculator
+- password generator with limit 
 
 I am learning Python step by step and improving my programming skills.
