@@ -10,5 +10,5 @@ Programs included:
 - Table Generator
 - Square Calculator
 - password generator with limit 
-
+- password generator with choices
 I am learning Python step by step and improving my programming skills.
