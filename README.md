@@ -11,4 +11,6 @@ Programs included:
 - Square Calculator
 - password generator with limit 
 - password generator with choices
-I am learning Python step by step and improving my programming skills.
+- student marks system
+
+- I am learning Python step by step and improving my programming skills.
